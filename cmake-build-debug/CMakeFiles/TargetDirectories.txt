@@ -1,0 +1,3 @@
+D:/c++/Home Task 11/IP-address/cmake-build-debug/CMakeFiles/IP_address.dir
+D:/c++/Home Task 11/IP-address/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++/Home Task 11/IP-address/cmake-build-debug/CMakeFiles/rebuild_cache.dir
